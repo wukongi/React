@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,WACE,yCAAkC,CAAlC,iCACF,CACA,eACE,6BACF","file":"main.320c5766.chunk.css","sourcesContent":[".completed {\r\n  text-decoration-line: line-through;\r\n}\r\n.fortransition {\r\n  transition: all 1s ease-in-out;\r\n}\r\n"]}
